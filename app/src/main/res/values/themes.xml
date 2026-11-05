@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MyTv" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#0E0F14</item>
+        <item name="android:statusBarColor">#0E0F14</item>
+        <item name="android:navigationBarColor">#0E0F14</item>
+    </style>
+</resources>
